@@ -67,7 +67,7 @@
 
 ### ダウンロード
 
-[Releases](https://github.com/YOUR_GITHUB_USERNAME/fusiontube/releases)から最新版をダウンロード:
+[Releases](https://github.com/sayasaya8039/fusiontube/releases)から最新版をダウンロード:
 
 - **FusionTube x.x.x.exe** - ポータブル版（インストール不要）
 - **FusionTube Setup x.x.x.exe** - インストーラー版
@@ -81,7 +81,7 @@
 ### セットアップ
 
 ```bash
-git clone https://github.com/YOUR_GITHUB_USERNAME/fusiontube.git
+git clone https://github.com/sayasaya8039/fusiontube.git
 cd fusiontube
 npm install
 ```
